@@ -12,7 +12,7 @@ Me gustan todas las cosas sobre tecnología, programación y tengo las siguiente
 - Fanático de la tecnología, Desarrollo de Software, Linux, Software Libre, Agile, emprendimiento e innovación.
 - Soñador, humilde y perseverante.
 
-Te diría que hecharas un vistaso a mi trabajo pero esta en **_construcción_** ahora.
+Te diría que hecharas un vistaso a mi trabajo pero esta en **_construcción_** 8-) ahora.
 
 _¿Necesitas algo más?_
 
