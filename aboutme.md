@@ -24,6 +24,6 @@ Siempre he sido un soñador, con ideas un poco curiosas a las que no prestaba mu
 
 - [Fotos](https://www.instagram.com/richardpalaciosg/)
 
-Para obtener  más información, consulte mi hoja de vida académica y profesional en (LinkedIn)[https://ec.linkedin.com/in/richardpalaciosgarcia].
+Para obtener  más información, consulte mi hoja de vida académica y profesional en [LinkedIn](https://ec.linkedin.com/in/richardpalaciosgarcia).
 
-Puedes ponerte en contacto conmigo en (@rapg400)[https://twitter.com/rapg400] o enviarme un (corréo electrónico)[apalaciosg91@gmail.com].
+Puedes ponerte en contacto conmigo en [@rapg400](https://twitter.com/rapg400) o enviarme un [corréo electrónico](apalaciosg91@gmail.com).
