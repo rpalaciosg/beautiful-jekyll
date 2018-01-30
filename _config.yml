@@ -121,8 +121,8 @@ google_analytics: "UA-113322184-2"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: "richardapalaciosg"
-disqus: "Richard Palacios"
+disqus: "richardapalaciosg"
+#disqus: "Richard Palacios"
 # Facebook App ID
 # fb_app_id: ""
 
