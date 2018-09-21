@@ -27,3 +27,8 @@ Siempre he sido un soñador, con ideas un poco curiosas a las que no prestaba mu
 Para obtener  más información, consulte mi hoja de vida académica y profesional en [LinkedIn](https://ec.linkedin.com/in/richardpalaciosgarcia).
 
 Puedes ponerte en contacto conmigo en [@rapg400](https://twitter.com/rapg400) o enviarme un [corréo electrónico](apalaciosg91@gmail.com).
+
+
+####ACERCA DE ESTE SITIO WEB
+Este sitio web es un fork de tema [beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) el cual estoy editando con la información que puede ver en el sitio. Esta creado usando Jekyll  y está en línea gracias a [GitHub Pages](https://pages.github.com/).
+Está adaptado de manera que sea responsyve y se pueda ver bien en cualquier tamaño de pantalla. Actualmente estoy iniciando en su modificación, espero poder tenerlo a mi gusto en poco tiempo.
