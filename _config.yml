@@ -85,7 +85,7 @@ social-network-links:
 #  snapchat: deanat78
   instagram: richardpalaciosg
 #  youtube: user/deanat78
-#  spotify: yourname
+  spotify: rpalaciosg
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
@@ -121,7 +121,7 @@ google_analytics: "UA-113322184-2"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "richardapalaciosg"
+disqus: "richardpalaciosg"
 #disqus: "Richard Palacios"
 # Facebook App ID
 # fb_app_id: ""
