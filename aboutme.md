@@ -29,6 +29,6 @@ Para obtener  más información, consulte mi hoja de vida académica y profesion
 Puedes ponerte en contacto conmigo en [@rapg400](https://twitter.com/rapg400) o enviarme un [corréo electrónico](apalaciosg91@gmail.com).
 
 
-####ACERCA DE ESTE SITIO WEB
-Este sitio web es un fork de tema [beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) el cual estoy editando con la información que puede ver en el sitio. Esta creado usando Jekyll  y está en línea gracias a [GitHub Pages](https://pages.github.com/).
-Está adaptado de manera que sea responsyve y se pueda ver bien en cualquier tamaño de pantalla. Actualmente estoy iniciando en su modificación, espero poder tenerlo a mi gusto en poco tiempo.
+#### ACERCA DE ESTE SITIO WEB
+Este sitio web es un fork del tema [beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) el cual estoy editando con la información que puede ver en el sitio. Esta creado usando Jekyll que es un generador de sitios estaticos para blog y está en línea gracias a [GitHub Pages](https://pages.github.com/).
+Gracias a su creador está adaptado de manera que sea responsive y se pueda ver bien en cualquier tamaño de pantalla. Actualmente estoy trabando en su modificación y haciendo cambios constantemente, espero poder tenerlo a mi gusto en poco tiempo y seguir trabajando en la parte de mi portfolio.
