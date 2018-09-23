@@ -31,12 +31,12 @@ Puedes ponerte en contacto conmigo en [@rapg400](https://twitter.com/rapg400) o 
 
 #### ACERCA DE ESTE SITIO WEB
 
-    Este sitio web ha sido un fork del tema [beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) el cual estoy  editando con la información que puede ver en el sitio. 
+Este sitio web es un fork del tema [beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) el cual estoy  editando con la información que puede ver en el sitio. 
   
-    Funciona con [GitHub Pages](https://pages.github.com/) y [Jekyll](https://jekyllrb.com/), un generador de sitios web estaticos para blogs.
+Funciona con [GitHub Pages](https://pages.github.com/) y [Jekyll](https://jekyllrb.com/), un generador de sitios web estaticos para blogs.
 
-    Gracias a su creador ha sido diseñado para verse bien (ser responsive) tanto en computadoras de escritorio como en dispositivos móviles.
+Gracias a su creador ha sido diseñado para verse bien (ser responsive) tanto en computadoras de escritorio como en dispositivos móviles.
 
-    Actualmente estoy trabando y haciendo modificaciones constantemente, espero poder tenerlo a mi gusto en poco tiempo.
+Actualmente estoy trabando y haciendo modificaciones propias constantemente, espero poder tenerlo a mi gusto en poco tiempo.
 
-    Si te gusta este tema, puedes encontrar el proyecto original [aquí](https://github.com/daattali/beautiful-jekyll#readme).
+Si te gusta este tema, puedes encontrar el proyecto original [aquí](https://github.com/daattali/beautiful-jekyll#readme).
