@@ -24,21 +24,16 @@ description: Una huella virtual de mi proceso de aprendizaje.
 
 # List of links in the navigation bar
 navbar-links:
-  Proyectos: ""
+  Proyectos: "portfolio"
   Sobre mi: "aboutme"
   Recursos:
-    - About.me: "https://about.me/richardpalaciosg"
-    - LinkedIn: "https://ec.linkedin.com/in/richardpalaciosgarcia"
+    - About.me: "https://about.me/richardpalaciosg"    
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
     - GitHub Flow: "https://guides.github.com/introduction/flow/"
+    - Tema de este sitio: "http://deanattali.com/beautiful-jekyll/"
+    - Jekyll: https://jekyllrb.com/
   Blog: ""  
-  
-  #Resources:
-  #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-  #  - Learn markdown: "http://www.markdowntutorial.com/"
-  #  - GitHub Pages: "https://pages.github.com/"
-  #Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
