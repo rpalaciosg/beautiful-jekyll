@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sobre mi
-#subtitle: Sobre mi
+#title: Sobre mi
+subtitle: Sobre mi
 ---
 
 ¡Hola! Mi nombre es Richard Palacios, vivo en Cuenca, Ecuador. Durante el día, trabajo para [Mutualista Azuay](https://www.mutualistaazuay.com/) como Desarrollador de Software en tecnologías AS400 IBMi; usando lenguajes como RPGIV, RPG/ILE, Java EE, .Net y Bases de Datos.
@@ -32,7 +32,7 @@ Diría que echaras un vistazo a mi trabajo o portafolio pero está esa parte est
 
 ### Mi historia
 
-Nací en la ciudad de Machala, El Oro, Ecuador, gracias a Dios y al esfuerzo de mis padres tuve la oportunidad de viajar a Cuenca para estudiar Ingeniera de Sistemas, donde obtuve mi título Universitario; donde desperté esta emoción por la tecnología y sobre todo donde conocí a una increíble mujer ahora mi esposa. 
+Nací en la ciudad de Machala, El Oro, Ecuador, gracias a Dios y al esfuerzo de mis padres tuve la oportunidad de viajar a Cuenca para estudiar Ingeniera de Sistemas, donde obtuve mi título Universitario; donde desperté esta emoción por la tecnología y sobre todo donde conocí a una increíble mujer ahora mi esposa quien me dio como hija, la niña mas maravillosa e inteligente a quien llamamo _Rosi_. 
 Siempre he sido un soñador, con ambición, con ideas un poco curiosas a las que no prestaba mucha atención al inicio, pero que a partir de mis estudios,  desde conocer el mundo de la programación, me di cuenta que no hay ideas pequeñas y que está al alcance de todos poder hacer realidad esas ideas, proyectos o incluso sueños. 
 Tengo muchas ganas de aprender, porque creo que aun hay muchísimo que aprender, sobre todo en esta área tan cambiante de la tecnología.  A veces pienso que no soy bueno para enseñar pero es otro de mis objetivos además de proyecto secundario, para mejorar como profesional, como persona y como lo indiqué antes, compartir mis ideas, enseñar a las personas lo que pueda sobre programación, tecnologías, y software libre. Vivir el sueño.
 
