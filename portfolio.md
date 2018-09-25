@@ -1,10 +1,6 @@
 ---
 layout: page
-title: Proyectos
-subtitle: Aqui podras conocer en lo que he trabajado
+title: ¡Página en construcción!
+subtitle: Lo siento, esta página se mostrará muy pronto.
 #image: /img/avatar-icon.png
 ---
-
-### ¡En construcción!
-
-Lo siento, esta página se mostrará muy pronto.
