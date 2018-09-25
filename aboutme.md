@@ -4,10 +4,10 @@ title: About me
 subtitle: Sobre mi
 ---
 
-¡Hola! Mi nombre es Richard Palacios, vivo en Cuenca, Ecuador. Durante el día, trabajo para [Mutualista Azuay](https://www.mutualistaazuay.com/) como Desarrollador de Software en tecnologías AS400 usando RPGIV, RPG/ILE, Bases de Datos, Java EE y .Net.
+¡Hola! Mi nombre es Richard Palacios, vivo en Cuenca, Ecuador. Durante el día, trabajo para [Mutualista Azuay](https://www.mutualistaazuay.com/) como Desarrollador de Software en tecnologías AS400 IBMi; usando lenguajes como RPGIV, RPG/ILE, Java EE, .Net y Bases de Datos.
 
 
-En mi tiempo libre, me gusta trabajar y ayudar en proyectos de software libre que me parecen interesantes en donde estoy aprendiendo mucho  para mejorar mis habilidades como programador; me gusta salir con mi esposa Celia a divertirme, jugar con mi hija Rosi en el parque o construir una casa club :), hasta disfrutar ver series y películas con ellas.
+En mi tiempo libre, me gusta trabajar/colaborar en proyectos de software libre que me parecen interesantes en donde estoy aprendiendo mucho  para mejorar mis habilidades como programador; me gusta salir divertirme con mi esposa Celia, jugar con mi hija Rosi en el parque, construir una casa club :), ver series/películas con ellas y disfrutar el tiempo con ellas.
 
 
 Soy creyente me considero cristiano, una persona de fé. Estoy graduado de la Universidad Politécnica Salesiana con un título en Ingeniería de Sistemas.
