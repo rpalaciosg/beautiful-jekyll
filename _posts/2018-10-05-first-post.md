@@ -9,7 +9,7 @@ gh-badge: [star, fork, follow]
 tags: [Hello_world]
 ---
 
-<img src="/img/rapg.png" width="756" height="756" alt="Hello World"/>
+<img src="/img/rapg.png" width="750" height="750" alt="Hello World"/>
 
 Esta es mi primera publicación, estoy emocionado! :) y también algo asustado. Pero veamos que sale de esto!
 
