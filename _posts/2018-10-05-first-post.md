@@ -3,13 +3,13 @@ layout: post
 title: Hola Mundo!
 subtitle: Mi primer post!
 image: /img/rapg.png
-bigimg: /img/rapg.png 
+#bigimg: /img/rapg.png 
 gh-repo: rpalaciosg/rpalaciosg.github.io
 gh-badge: [star, fork, follow]
 tags: [Hello_world]
 ---
 
-##### 05/10/2018
+<img src="/img/rapg.png" width="756" height="756" alt="Hello World"/>
 
 Esta es mi primera publicación, estoy emocionado! :) y también algo asustado. Pero veamos que sale de esto!
 
