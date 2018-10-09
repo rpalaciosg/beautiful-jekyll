@@ -48,7 +48,14 @@ Puedes ponerte en contacto conmigo en twitter [@rapg400](https://twitter.com/rap
 
 [Descargar mi Hova de Vida >>](https://drive.google.com/open?id=1EThUjgIdZUR9AbGtksaTrYNVYtyI5Ktw)
 
-#### ACERCA DE ESTE SITIO WEB
+<div class="main-explain-area jumbotron">
+<h4>ACERCA DE ESTE SITIO WEB</h4>
 
-Este sitio web es un fork del tema beautiful-jekyll el cual estoy  editando con la información que puede ver en este sitio. Funciona con [GitHub Pages](https://pages.github.com/) y [Jekyll](https://jekyllrb.com/), un generador de sitios web estáticos para blogs. Gracias a su creador ha sido diseñado para verse bien tanto en computadoras de escritorio como en dispositivos móviles. Actualmente estoy proando y haciendo modificaciones propias constantemente, espero poder tenerlo a mi gusto en poco tiempo.
-Si te gusta este tema, puedes encontrar el proyecto original en [beautiful-jekyll](https://github.com/daattali/beautiful-jekyll#readme).
+<p class="lead text-right">
+<small>
+Este sitio web es un fork del tema beautiful-jekyll el cual estoy  editando con la información que puede ver en este sitio. Funciona con 
+<a href="https://pages.github.com/">GitHub Pages</a> y <a href="https://jekyllrb.com/">Jekyll]</a>, un generador de sitios web estáticos para blogs. Gracias a su creador ha sido diseñado para verse bien tanto en computadoras de escritorio como en dispositivos móviles. Actualmente estoy probando y haciendo modificaciones propias constantemente, espero poder tenerlo a mi gusto en poco tiempo.
+Si te gusta este tema, puedes encontrar el proyecto original en <a href="https://github.com/daattali/beautiful-jekyll#readme">beautiful-jekyll</a>.
+</small>
+</p>
+</div>
