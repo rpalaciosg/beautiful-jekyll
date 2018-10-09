@@ -8,6 +8,10 @@ gh-repo: rpalaciosg/rpalaciosg.github.io
 gh-badge: [star, fork, follow]
 tags: [Hello_world]
 ---
+
+{: .box-note}
+**Hola:** Este es mi primer post.
+
 <img src="/img/rapg.png" width="100%" alt="Hello World" style="display:block;text-align:center;" class="img-fluid"/>
 
 Esta es mi primera publicación, estoy emocionado! :) y también algo asustado. Pero veamos que sale de esto!
