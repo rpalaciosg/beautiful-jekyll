@@ -3,6 +3,7 @@ layout: page
 show-avatar: true
 title: Usos 
 #subtitle: Usos
+tags: [usos]
 ---
 
 En esta página mostraré varias partes de mi configuración, ya sea entorno de desarrollo, terminal, dotfiles, etc. 
@@ -10,10 +11,12 @@ En esta página mostraré varias partes de mi configuración, ya sea entorno de 
 Trataré de mantener esta página siempre actualizada, donde compartiré detalles específicos de algun software o hardware que use.
 
 #### Sistema Operativo
+
 - **Personal:** `Linux`  Actualmente Ubuntu 16.04 LTS (Xenial Xerus) de 64 bits.
 
 
 #### Editor de Texto, IDE
+
 - Visual Studio Code.
 - Nano
 - Eclipse
@@ -22,6 +25,7 @@ Trataré de mantener esta página siempre actualizada, donde compartiré detalle
 
 
 #### Terminal
+
 Estoy escribiendo una publicación completa con la configuración de mi terminal. 
 Antes solía usar el terminal por defecto del sistema operativo con Zsh [oh-my-zsh](https://ohmyz.sh/), el tema Agnoster y [powerline](https://github.com/powerline/powerline). 
 
@@ -29,6 +33,7 @@ Antes solía usar el terminal por defecto del sistema operativo con Zsh [oh-my-z
 
 
 #### Aplicaciones de Escritorio
+
 - Google Chrome y Firefox como navegadores.
 - Inkscape, Gimp e ImageMagick para edición de imágenes.
 - Remmina para escritorio remoto.
@@ -36,6 +41,7 @@ Antes solía usar el terminal por defecto del sistema operativo con Zsh [oh-my-z
 
 
 #### Herramientas para blog
+
 - **Generador de sitios Web Estaticos:** Este sitio está escrito en [Jekyll](https://jekyllrb.com/) y usa el tema [beautiful-jekyll](https://deanattali.com/beautiful-jekyll/), aunque actualmente estoy probando [Nikola](https://getnikola.com/).
 - **Sintaxis:** Este sitio usa Markdown y HTML pero estoy probando reStructuredText que es muy versatil y es usado en Nikola.
 - **Host:** Este sitio esta en línea gracias a [GitHub Pages](https://pages.github.com/).
@@ -43,9 +49,11 @@ Antes solía usar el terminal por defecto del sistema operativo con Zsh [oh-my-z
 
 
 #### Computadora
+
 - Uso un laptop Toshiba Tecra Z40-B4104S.
 - Tengo un monitor LG de 19'.
 
 
 #### Espacio de Trabajo
+
 Mi espacio de trabajo.
