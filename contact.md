@@ -13,7 +13,8 @@ La forma más rápida de contactarme es enviarme un correo electrónico. Haré t
 
 <p class="text-center">
   <a href="mailto:apalaciosg91@gmail.com?subject=Mail desde rpalaciosg.github.io" style="color: #333; padding-bottom:1px;
-    border-bottom:solid 1px #171818;font-weight: bold;text-decoration: none;"> 
+    border-bottom:solid 1px #171818;font-weight: bold;cursor: pointer; font-family: 'Open Sans',sans-serif; line-height: 1.625;
+    margin: 0 0 2rem; text-decoration: none;"> 
     <font style="vertical-align: inherit;">
       <font style="vertical-align: inherit;">apalaciosg91@gmail.com</font>
     </font>
