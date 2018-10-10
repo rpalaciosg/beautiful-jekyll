@@ -75,7 +75,7 @@ css: '/css/extend-home.css'
 </ul>
 
 ----
-<div id="blog-wrap">
+<section>
 <h1 class="text-center">Desde el blog</h1>
 <div class="spacer"></div>
 
@@ -136,4 +136,4 @@ css: '/css/extend-home.css'
     <a href="{{site.baseurl}}/blog">Leer más → </a>
   </li>
 </ul>
-</div>
+</section>
