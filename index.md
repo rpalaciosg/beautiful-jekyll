@@ -8,7 +8,7 @@ bigimg:
   - '/img/first-big-image-unsplash.jpg': "Foto de Unsplash.com"
 css: '/css/extend-home.css'
 ---
-<h1 class="text-center">Proyctos Actuales</h1>
+<h1 class="text-center">Proyectos Actuales</h1>
 
 <div class="spacer"></div>
 
@@ -67,6 +67,12 @@ css: '/css/extend-home.css'
     </div>
   </div>
 </div>
+
+<ul class="pager main-pager">
+  <li>
+    <a href="{{site.baseurl}}/portfolio">Portafolio </a>
+  </li>
+</ul>
 
 ----
 
@@ -127,6 +133,6 @@ css: '/css/extend-home.css'
 
 <ul class="pager main-pager">
   <li>
-    <a href="{{site.baseurl}}/blog">Archive </a>
+    <a href="{{site.baseurl}}/blog">Todas las publicaciones </a>
   </li>
 </ul>
