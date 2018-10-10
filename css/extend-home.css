@@ -1,3 +1,11 @@
+/* ----- Section Desde Blog ----- */
+#blog-wrap {
+    padding: 5rem 0;
+    overflow: hidden;
+    text-align: center;
+    background: #e1f0fe;
+    width: 100%;
+}
 /* ----- Card section ----- */
 a.project-link:link,
 a.project-link:visited {
