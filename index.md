@@ -70,12 +70,12 @@ css: '/css/extend-home.css'
 
 <ul class="pager main-pager">
   <li>
-    <a href="{{site.baseurl}}/portfolio">Ver más <i class="fas fa-long-arrow-alt-right"></i></a>
+    <a href="{{site.baseurl}}/portfolio">Ver más →</a>
   </li>
 </ul>
 
 ----
-
+<div id="blog-wrap">
 <h1 class="text-center">Desde el blog</h1>
 <div class="spacer"></div>
 
@@ -133,6 +133,7 @@ css: '/css/extend-home.css'
 
 <ul class="pager main-pager">
   <li>
-    <a href="{{site.baseurl}}/blog">Leer más <i class="fas fa-long-arrow-alt-right"></i> </a>
+    <a href="{{site.baseurl}}/blog">Leer más → </a>
   </li>
 </ul>
+</div>
