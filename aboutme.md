@@ -44,9 +44,10 @@ Tengo muchas ganas de aprender, porque creo que aun hay muchísimo que aprender,
 
 Para obtener  más información, consulte mi hoja de vida académica y profesional en [LinkedIn](https://ec.linkedin.com/in/richardpalaciosgarcia).
 
-Puedes ponerte en contacto conmigo en twitter [@rapg400](https://twitter.com/rapg400) o enviarme un [corréo electrónico](apalaciosg91@gmail.com).
+<div class="text-center">
+<a href="https://drive.google.com/open?id=1EThUjgIdZUR9AbGtksaTrYNVYtyI5Ktw" class="btn btn-outline-info" role="button">Descargar mi Hoja de Vida → </a>
+</div>
 
-[Descargar mi Hova de Vida >>](https://drive.google.com/open?id=1EThUjgIdZUR9AbGtksaTrYNVYtyI5Ktw)
 
 <div class="main-explain-area jumbotron">
 <h4>ACERCA DE ESTE SITIO WEB</h4>
