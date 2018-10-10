@@ -45,9 +45,11 @@ Tengo muchas ganas de aprender, porque creo que aun hay muchísimo que aprender,
 Para obtener  más información, consulte mi hoja de vida académica y profesional en [LinkedIn](https://ec.linkedin.com/in/richardpalaciosgarcia).
 
 <div class="text-center">
-  <button type="button" class="btn btn-outline-info">
-    <a href="https://drive.google.com/open?id=1EThUjgIdZUR9AbGtksaTrYNVYtyI5Ktw">Descargar mi Hoja de Vida → </a>
-  </button>
+  <a class="btn btn-info btn-lg get-started-btn" href="https://drive.google.com/open?id=1EThUjgIdZUR9AbGtksaTrYNVYtyI5Ktw" style="margin-bottom:3em;">
+    <font style="vertical-align: inherit;">
+      <font style="vertical-align: inherit;">Descargar mi Hoja de Vida → </font>
+    </font>
+  </a>
 </div>
 
 
