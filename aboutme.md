@@ -27,7 +27,7 @@ Diría que echaras un vistazo a mi trabajo o portafolio pero está esa parte est
 
 * _Blog como desarrollador _o _blog de tecnología_, lo tengo como objetivo y meta para este sitio web, es uno de mis principales proyectos secundarios, porque además de aprender quiero poder compartir mis conocimientos a las personas que estén interesadas en aprender.
 
-  _¿Quisieras saber algo más?_
+  _¿Quisieras saber algo más?_ [Página de Usos](https://rpalaciosg.github.io/uses/)
 
 
 
