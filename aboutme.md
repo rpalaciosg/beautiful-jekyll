@@ -5,10 +5,10 @@ subtitle: Sobre mi
 image: /img/avatar-icon.png
 ---
 
-¡Hola! Mi nombre es Richard Palacios, vivo en Cuenca, Ecuador. Durante el día, trabajo para [Mutualista Azuay](https://www.mutualistaazuay.com/) como Desarrollador de Software en tecnologías AS400 IBMi; usando lenguajes como RPGIV, RPG/ILE, Java EE, .Net y Bases de Datos.
+¡Hola! Mi nombre es Richard Palacios, vivo en Cuenca, Ecuador. Durante el día trabajo para [Mutualista Azuay](https://www.mutualistaazuay.com/) como Desarrollador de Software en tecnologías AS400 IBMi; usando lenguajes como RPGIV, RPG/ILE, Java EE, .Net y Bases de Datos.
 
 
-En mi tiempo libre, me gusta trabajar/colaborar en proyectos de software libre que me parecen interesantes en donde estoy aprendiendo mucho  para mejorar mis habilidades como programador; me gusta salir divertirme con mi esposa Celia, jugar con mi hija Rosi en el parque, construir una casa club :), ver series/películas con ellas y disfrutar el tiempo con ellas.
+En mi tiempo libre, me gusta trabajar/colaborar en proyectos de software libre que me parecen interesantes, en donde estoy aprendiendo mucho  para mejorar mis habilidades como programador; me gusta salir divertirme con mi esposa, jugar con mi linda hija en el parque, o construir una casa club :), ver series/películas con ellas y disfrutar el tiempo con ellas.
 
 
 Soy creyente me considero cristiano, una persona de fé. Estoy graduado de la Universidad Politécnica Salesiana con un título en Ingeniería de Sistemas.
@@ -18,7 +18,7 @@ Me encanta aprender nuevas cosas, nuevas tecnologías, me gusta idear, planear y
 
 Estoy en un proceso de continuo aprendizaje y constantemente buscando ser una mejor persona y un desarrollador FullStack. En los últimos años he disfrutado trabajando y aprendiendo mucho con proyectos en la empresa que trabajo y con algunos proyectos personales, los que me han ayudado a ganar experiencia y enseñanzas en este proceso.
 
-Diría que echaras un vistazo a mi trabajo o portafolio pero está esa parte está en __[construcción](#)__ todavía, o al menos aun no estoy seguro de poder ponerlo.
+Puedes dar un vistazo a mi trabajo o portafolio [aquí](https://rpalaciosg.github.io/portfolio/).
 
 
 ### Proyectos Secundarios
