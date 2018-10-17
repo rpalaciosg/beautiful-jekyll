@@ -56,7 +56,7 @@ css: '/css/extend-home.css'
         <span class="fa-stack fa-4x">
           <i class="fa fa-square fa-stack-2x stack-color"></i>
           <!--<i class="fa fa-user-secret fa-stack-1x fa-inverse"></i>-->
-          <i class="fab fa-dev fa-stack-1x fa-inverse"></i>
+          <i class="fab fa-dev fab-stack-1x fa-inverse"></i>
         </span>
         <h4>{{- gh-project -}}</h4>
         <hr class="seperator">
