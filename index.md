@@ -21,7 +21,7 @@ css: '/css/extend-home.css'
       <a target="_blank" href="https://github.com/{{- gh-user -}}/{{- gh-project -}}" class="project-link" title="Ir a la página de Github del proyecto">
         <span class="fa-stack fa-4x">
           <i class="fa fa-square fa-stack-2x stack-color"></i>
-          <i class="fa fa-terminal fa-stack-1x fa-inverse"></i>
+          <i class="fa fa-file-code-o fa-stack-1x fa-inverse"></i>
         </span>
         <h4>{{- gh-project -}}</h4>
         <hr class="seperator">
@@ -37,12 +37,12 @@ css: '/css/extend-home.css'
       {%- assign gh-project = "vagrant-javaee-wildfly" -%}
       <a target="_blank" href="https://github.com/{{- gh-user -}}/{{- gh-project -}}" class="project-link" title="Go to Github Poject Page">
         <span class="fa-stack fa-4x">
-          <i class="fa fa-square fa-stack-2x stack-color"></i>
-          <i class="fa fa-file-code-o fa-stack-1x fa-inverse"></i>
+          <i class="fa fa-square fa-stack-2x stack-color"></i>          
+          <i class="fa fa-terminal fa-stack-1x fa-inverse"></i>
         </span>
         <h4>{{- gh-project -}}</h4>
         <hr class="seperator">
-        <p class="text-muted">Este proyecto ofrece auna configuracion basica de Vagrant para un entorno de desarrollo JavaEE y Servidor de Aplicaciones Wildfly.</p>
+        <p class="text-muted">Este proyecto ofrece una configuración básica de Vagrant para un entorno de desarrollo JavaEE y Servidor de Aplicaciones Wildfly.</p>
         <hr class="seperator">
         <img src="https://img.shields.io/github/forks/{{- gh-user -}}/{{- gh-project -}}.svg?style=social&label=Fork" alt="Github" title="Github Forks">
         <img src="https://img.shields.io/github/stars/{{- gh-user -}}/{{- gh-project -}}.svg?style=social&label=Stars" alt="Github" title="Github Stars">
@@ -55,11 +55,12 @@ css: '/css/extend-home.css'
       <a target="_blank" href="https://github.com/{{- gh-user -}}/{{- gh-project -}}" class="project-link" title="Go to Github Poject Page">
         <span class="fa-stack fa-4x">
           <i class="fa fa-square fa-stack-2x stack-color"></i>
-          <i class="fa fa-user-secret fa-stack-1x fa-inverse"></i>
+          <!--<i class="fa fa-user-secret fa-stack-1x fa-inverse"></i>-->
+          <i class="fab fa-dev fa-stack-1x fa-inverse"></i>
         </span>
         <h4>{{- gh-project -}}</h4>
         <hr class="seperator">
-        <p class="text-muted">Aplicación que muestra consejos de diferentes tecnologías, bibliotecas y lenguajes de programación.</p>
+        <p class="text-muted">Aplicación que muestra consejos o recordatorios de diferentes tecnologías, bibliotecas y lenguajes de programación y se puede agregar como extension de Google chrome.</p>
         <hr class="seperator">
         <img src="https://img.shields.io/github/forks/{{- gh-user -}}/{{- gh-project -}}.svg?style=social&label=Fork" alt="Github" title="Github Forks">
         <img src="https://img.shields.io/github/stars/{{- gh-user -}}/{{- gh-project -}}.svg?style=social&label=Stars" alt="Github" title="Github Stars">
