@@ -16,16 +16,16 @@ css: '/css/extend-home.css'
 <div class="row text-center">
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
     <div class="project-card">
-      {%- assign gh-user = "OCram85"-%}
-      {%- assign gh-project = "Test Project 1" -%}
-      <a target="_blank" href="https://github.com/{{- gh-user -}}/{{- gh-project -}}" class="project-link" title="Go to Github Poject Page">
+      {%- assign gh-user = "rpalaciosg"-%}
+      {%- assign gh-project = "rpalaciosg.github.io" -%}
+      <a target="_blank" href="https://github.com/{{- gh-user -}}/{{- gh-project -}}" class="project-link" title="Ir a la página de Github del proyecto">
         <span class="fa-stack fa-4x">
           <i class="fa fa-square fa-stack-2x stack-color"></i>
           <i class="fa fa-terminal fa-stack-1x fa-inverse"></i>
         </span>
         <h4>{{- gh-project -}}</h4>
         <hr class="seperator">
-        <p class="text-muted">Esto es una descripción de prueba.</p>
+        <p class="text-muted">Este sitio Web. Como primer proyecto puedo presentar mi sitio web personal.</p>
         <hr class="seperator">
         <img src="https://img.shields.io/github/forks/{{- gh-user -}}/{{- gh-project -}}.svg?style=social&label=Fork" alt="Github" title="Github Forks">
         <img src="https://img.shields.io/github/stars/{{- gh-user -}}/{{- gh-project -}}.svg?style=social&label=Stars" alt="Github" title="Github Stars">
@@ -34,7 +34,7 @@ css: '/css/extend-home.css'
   </div>
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
     <div class="project-card">
-      {%- assign gh-project = "Test Proyect 2" -%}
+      {%- assign gh-project = "vagrant-javaee-wildfly" -%}
       <a target="_blank" href="https://github.com/{{- gh-user -}}/{{- gh-project -}}" class="project-link" title="Go to Github Poject Page">
         <span class="fa-stack fa-4x">
           <i class="fa fa-square fa-stack-2x stack-color"></i>
@@ -42,7 +42,7 @@ css: '/css/extend-home.css'
         </span>
         <h4>{{- gh-project -}}</h4>
         <hr class="seperator">
-        <p class="text-muted">Esta es una descripción de prueba para el segundo proyecto.</p>
+        <p class="text-muted">Este proyecto ofrece auna configuracion basica de Vagrant para un entorno de desarrollo JavaEE y Servidor de Aplicaciones Wildfly.</p>
         <hr class="seperator">
         <img src="https://img.shields.io/github/forks/{{- gh-user -}}/{{- gh-project -}}.svg?style=social&label=Fork" alt="Github" title="Github Forks">
         <img src="https://img.shields.io/github/stars/{{- gh-user -}}/{{- gh-project -}}.svg?style=social&label=Stars" alt="Github" title="Github Stars">
@@ -51,7 +51,7 @@ css: '/css/extend-home.css'
   </div>
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
     <div class="project-card">
-    {%- assign gh-project = "Test Project 3" -%}
+    {%- assign gh-project = "ProgramingTips" -%}
       <a target="_blank" href="https://github.com/{{- gh-user -}}/{{- gh-project -}}" class="project-link" title="Go to Github Poject Page">
         <span class="fa-stack fa-4x">
           <i class="fa fa-square fa-stack-2x stack-color"></i>
@@ -59,7 +59,7 @@ css: '/css/extend-home.css'
         </span>
         <h4>{{- gh-project -}}</h4>
         <hr class="seperator">
-        <p class="text-muted">Esta es la descripción para el 3er proyecto de prueba.</p>
+        <p class="text-muted">Aplicación que muestra consejos de diferentes tecnologías, bibliotecas y lenguajes de programación.</p>
         <hr class="seperator">
         <img src="https://img.shields.io/github/forks/{{- gh-user -}}/{{- gh-project -}}.svg?style=social&label=Fork" alt="Github" title="Github Forks">
         <img src="https://img.shields.io/github/stars/{{- gh-user -}}/{{- gh-project -}}.svg?style=social&label=Stars" alt="Github" title="Github Stars">
