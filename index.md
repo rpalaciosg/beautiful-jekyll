@@ -25,7 +25,7 @@ css: '/css/extend-home.css'
         </span>
         <h4>{{- gh-project -}}</h4>
         <hr class="seperator">
-        <p class="text-muted">Este sitio Web. Como primer proyecto puedo presentar mi sitio web personal.</p>
+        <p class="text-muted">Este sitio Web.</p>
         <hr class="seperator">
         <img src="https://img.shields.io/github/forks/{{- gh-user -}}/{{- gh-project -}}.svg?style=social&label=Fork" alt="Github" title="Github Forks">
         <img src="https://img.shields.io/github/stars/{{- gh-user -}}/{{- gh-project -}}.svg?style=social&label=Stars" alt="Github" title="Github Stars">
@@ -56,7 +56,8 @@ css: '/css/extend-home.css'
         <span class="fa-stack fa-4x">
           <i class="fa fa-square fa-stack-2x stack-color"></i>
           <!--<i class="fa fa-user-secret fa-stack-1x fa-inverse"></i>-->
-          <i class="fab fa-dev fab-stack-1x fa-inverse"></i>
+          <i class="fab fa-js fa-stack-1x fa-inverse"></i>
+          <i class="fab fa-dev fa-stack-1x fa-inverse"></i>          
         </span>
         <h4>{{- gh-project -}}</h4>
         <hr class="seperator">
