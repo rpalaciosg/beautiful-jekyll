@@ -13,7 +13,7 @@ comments: true
 {: .box-note}
 **Hola:** Este es mi primer post.
 <figure>
-<img src="/img/rapg.png" width="100%" alt="Hello World" style="display:block;text-align:center;" class="img-fluid"/>
+<img src="/img/posts/post1/rapg.png" width="100%" alt="Hello World" style="display:block;text-align:center;" class="img-fluid"/>
 <figcaption>Por Richard Palacios creado con Canva</figcaption>  
 </figure>
 
