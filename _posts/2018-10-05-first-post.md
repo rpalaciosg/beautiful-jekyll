@@ -2,7 +2,7 @@
 layout: post
 title: Hola Mundo!
 subtitle: Mi primer post!
-image: /img/post1/rapg_thumbnail.png
+image: /img/posts/post1/rapg_thumbnail.png
 #bigimg: /img/rapg.png 
 gh-repo: rpalaciosg/rpalaciosg.github.io
 gh-badge: [star, fork, follow]
