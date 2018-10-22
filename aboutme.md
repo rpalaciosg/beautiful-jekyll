@@ -4,23 +4,23 @@ title: Sobre mi
 subtitle: Sobre mi
 image: /img/avatar-icon.png
 ---
-<p align="justify">
+<p align=justify>
 ¡Hola! Mi nombre es Richard Palacios, vivo en Cuenca, Ecuador. Durante el día trabajo para [Mutualista Azuay](https://www.mutualistaazuay.com/) como Desarrollador de Software en tecnologías AS400 IBMi; usando lenguajes como RPGIV, RPG/ILE, Java EE, .Net y Bases de Datos.
 </p>
 
-<p align="justify">
+<p align=justify>
 En mi tiempo libre, me gusta trabajar/colaborar en proyectos de software libre que me parecen interesantes, en donde estoy aprendiendo mucho  para mejorar mis habilidades como programador; me gusta salir divertirme con mi esposa, jugar con mi linda hija en el parque, o construir una casa club :), ver series/películas con ellas y disfrutar el tiempo con ellas.
 </p>
 
-<p align="justify">
+<p align=justify>
 Soy creyente me considero cristiano, una persona de fé. Estoy graduado de la Universidad Politécnica Salesiana con un título en Ingeniería de Sistemas.
 </p>
 
-<p align="justify">
+<p align=justify>
 Me encanta aprender nuevas cosas, nuevas tecnologías, me gusta idear, planear y diseñar ideas que yo creo innovadoras, que a veces se me ocurren, intentando crear algún un producto comercial o simplemente algo libre que sea útil para los demás.
 </p>
 
-<p align="justify">
+<p align=justify>
 Estoy en un proceso de continuo aprendizaje y constantemente buscando ser una mejor persona y un desarrollador FullStack. En los últimos años he disfrutado trabajando y aprendiendo mucho con proyectos en la empresa que trabajo y con algunos proyectos personales, los que me han ayudado a ganar experiencia y enseñanzas en este proceso.
 </p>
 
@@ -29,11 +29,11 @@ Puedes dar un vistazo a mi trabajo o portafolio [aquí](https://rpalaciosg.githu
 
 ### Proyectos Secundarios
 
-<p align="justify">
+<p align=justify>
 * Me gusta el trabajo que realiza la comunidad de [Python Ecuador](https://pythonecuador.org/) y las [meetups]( https://www.meetup.com/es-ES/python-ecuador/) que organizan; hace un tiempo he empecé a ayudar en el [repositorio](https://github.com/PythonEcuador/PythonEcuador.github.io) del sitio web de la comunidad.
 </p>
 
-<p align="justify">
+<p align=justify>
 * _Blog como desarrollador _o _blog de tecnología_, lo tengo como objetivo y meta para este sitio web, es uno de mis principales proyectos secundarios, porque además de aprender quiero poder compartir mis conocimientos a las personas que estén interesadas en aprender.
 </p>
 
@@ -42,7 +42,7 @@ Puedes dar un vistazo a mi trabajo o portafolio [aquí](https://rpalaciosg.githu
 
 ### Mi historia
 
-<p align="justify">
+<p align=justify>
 Nací en la ciudad de Machala, El Oro, Ecuador, gracias a Dios y al esfuerzo de mis padres tuve la oportunidad de viajar a Cuenca para estudiar Ingeniera de Sistemas, donde obtuve mi título Universitario; donde desperté esta emoción por la tecnología y sobre todo donde conocí a una increíble mujer ahora mi esposa quien me dio como hija, la niña mas maravillosa e inteligente a quien de cariño llamamos _Rosi_. 
 Siempre he sido un soñador, con ambición, con ideas un poco curiosas a las que no prestaba mucha atención al inicio, pero que a partir de mis estudios,  desde conocer el mundo de la programación, me di cuenta que no hay ideas pequeñas y que está al alcance de todos poder hacer realidad esas ideas, proyectos o incluso sueños. 
 Tengo muchas ganas de aprender, porque creo que aun hay muchísimo que aprender, sobre todo en esta área tan cambiante de la tecnología.  A veces pienso que no soy bueno para enseñar pero es otro de mis objetivos además de proyecto secundario, para mejorar como profesional, como persona y como lo indiqué antes, compartir mis ideas, enseñar a las personas lo que pueda sobre programación, tecnologías, y software libre. Vivir el sueño.
