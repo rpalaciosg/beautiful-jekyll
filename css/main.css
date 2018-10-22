@@ -772,3 +772,8 @@ td.gutter {
   font-style: italic;
   font-size: 16px;
 }
+
+.text-justify {
+  text-align: justify;
+  text-justify: inter-word;
+}
