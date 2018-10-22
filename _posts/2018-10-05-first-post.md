@@ -17,7 +17,6 @@ comments: true
 <figcaption>Por Richard Palacios creado con Canva</figcaption>  
 </figure>
 
-<p style="text-align: justify;">
 Esta es mi primera publicación, estoy emocionado! :) y algo asustado. Pero veamos que sale de esto!
 
 __Blog como desarrollador__ o __Blog Técnico__ es el objetivo de este sitio; y al ser uno de mis principales proyectos secundarios, 
@@ -29,4 +28,3 @@ Estoy entusiasmado con este proyecto, espero lo sigan y las publicaciones futura
 ¡Puede encontrarme en twitter como  [@rapg400](https://twitter.com/rapg400) o enviarme un [correo electrónico](apalaciosg91@gmail.com)¡
 
 No dudes en realizar cualquier sugerencia, será bienvenida.
-</p>
