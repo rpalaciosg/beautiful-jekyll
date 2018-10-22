@@ -17,10 +17,12 @@ comments: true
 <figcaption>Por Richard Palacios creado con Canva</figcaption>  
 </figure>
  
-Esta es mi primera publicación, estoy emocionado! :) y algo asustado. Pero veamos que sale de esto!{: .text-justify}
+Esta es mi primera publicación, estoy emocionado! :) y algo asustado. Pero veamos que sale de esto!
+{: .text-justify}
 
 __Blog como desarrollador__ o __Blog Técnico__ es el objetivo de este sitio; y al ser uno de mis principales proyectos secundarios, 
-quiero compartir conocimientos,  mi experiencia  y mostrar una instantánea de mi vida en el mundo como programador.{: .text-justify}
+quiero compartir conocimientos,  mi experiencia  y mostrar una instantánea de mi vida en el mundo como programador.
+{: .text-justify}
 Tal vez no vaya a ser fácil, pero me ayudará a aprender nuevas cosas, perfeccionarlas y mejorar como profesional.
 {: .text-justify} 
 
