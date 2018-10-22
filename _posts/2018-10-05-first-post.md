@@ -17,7 +17,7 @@ comments: true
 <figcaption>Por Richard Palacios creado con Canva</figcaption>  
 </figure>
 
-<div class=text-justify>
+<div style="text-align:justify;">
 Esta es mi primera publicación, estoy emocionado! :) y algo asustado. Pero veamos que sale de esto!
 
 __Blog como desarrollador__ o __Blog Técnico__ es el objetivo de este sitio; y al ser uno de mis principales proyectos secundarios, 
