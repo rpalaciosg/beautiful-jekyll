@@ -16,21 +16,19 @@ comments: true
 <img src="/img/posts/post1/rapg.png" width="100%" alt="Hello World" style="display:block;text-align:center;" class="img-fluid"/>
 <figcaption>Por Richard Palacios creado con Canva</figcaption>  
 </figure>
+ 
+Esta es mi primera publicación, estoy emocionado! :) y algo asustado. Pero veamos que sale de esto!{: .text-justify}
 
-{: .text-justify} 
-Esta es mi primera publicación, estoy emocionado! :) y algo asustado. Pero veamos que sale de esto!
-
-{: .text-justify}
 __Blog como desarrollador__ o __Blog Técnico__ es el objetivo de este sitio; y al ser uno de mis principales proyectos secundarios, 
-quiero compartir conocimientos,  mi experiencia  y mostrar una instantánea de mi vida en el mundo como programador. 
-{: .text-justify} 
+quiero compartir conocimientos,  mi experiencia  y mostrar una instantánea de mi vida en el mundo como programador.{: .text-justify}
 Tal vez no vaya a ser fácil, pero me ayudará a aprender nuevas cosas, perfeccionarlas y mejorar como profesional.
-
 {: .text-justify} 
+
 Estoy entusiasmado con este proyecto, espero lo sigan y las publicaciones futuras sean de interes y ayuda.
+{: .text-justify} 
 
-{: .text-justify}
 ¡Puede encontrarme en twitter como  [@rapg400](https://twitter.com/rapg400) o enviarme un [correo electrónico](apalaciosg91@gmail.com)¡
-
 {: .text-justify}
+
 No dudes en realizar cualquier sugerencia, será bienvenida.
+{: .text-justify}
