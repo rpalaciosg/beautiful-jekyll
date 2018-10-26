@@ -5,7 +5,7 @@ title: Hola.!
 subtitle: Mi nombre es Richard Palacios y soy Desarrollador de Software
 use-site-title: true
 bigimg: 
-  - '/img/first-big-image-unsplash.jpg': "Foto de Unsplash.com"
+  - '/img/first-big-image-unsplash.jpg': "Foto por Neonbrand en Unsplash.com"
 css: '/css/extend-home.css'
 ---
 <h1 class="text-center">Trabajo reciente</h1>
