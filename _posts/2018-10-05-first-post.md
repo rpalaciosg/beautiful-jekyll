@@ -17,20 +17,24 @@ comments: true
 <figcaption>Por Richard Palacios creado con Canva</figcaption>  
 </figure>
  
-Esta es mi primera publicación, estoy emocionado! :) y algo asustado. Pero veamos que sale de esto!
+# Hola Mundo!
+
+Este es el inicio de una serie de publicaciones que haré en el futuro, intentando documentar mi proceso de aprendizaje y crecimiento como desarrollador de software.
 {: .text-justify}
 
-__Blog como desarrollador__ o __Blog Técnico__ es el objetivo de este sitio; y al ser uno de mis principales proyectos secundarios, 
-quiero compartir conocimientos,  mi experiencia  y mostrar una instantánea de mi vida en el mundo como programador.
+__Blog como desarrollador__ o __Blog Técnico__ será la temática principal de este sitio, y al ser uno de mis principales proyectos secundarios en el que suelo trabajar, tengo como objetivo compartir de la forma más fácil posible, los conocimientos o experiencias que vaya adquiriendo. Podría decir poder mostrar una instantánea de mi vida o experiencia en el mundo de la programación.
 {: .text-justify}
-Tal vez no vaya a ser fácil, pero me ayudará a aprender nuevas cosas, perfeccionarlas y mejorar como profesional.
+
+Entiendo que es una gran responsabilidad compartir información técnica y sobre todo enseñar algo correcto, tal vez no va a ser nada fácil. Pero estoy entusiasmado :),  vamos a ver que sale de todo esto.
 {: .text-justify} 
 
-Estoy entusiasmado con este proyecto, espero lo sigan y las publicaciones futuras sean de interes y ayuda.
+Espero lo sigan y que las publicaciones futuras sean de ayuda e interés para ustedes.
 {: .text-justify} 
 
-¡Puede encontrarme en twitter como  [@rapg400](https://twitter.com/rapg400) o enviarme un [correo electrónico](apalaciosg91@gmail.com)¡
+¡Pueden encontrarme en twitter como  [@rapg400](https://twitter.com/rapg400) o enviarme un [correo electrónico](apalaciosg91@gmail.com)¡
 {: .text-justify}
 
 No dudes en realizar cualquier sugerencia, será bienvenida.
 {: .text-justify}
+
+Hasta pronto.
