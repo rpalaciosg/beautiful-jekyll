@@ -1,7 +1,7 @@
 ---
 layout: page
 show-avatar: true
-title: Contactarme
+title: Contacto
 use-site-title: true
 bigimg: 
   - '/img/antoine-barres-198891-unsplash.jpg': "Foto por Antoine Barrès en Unsplash"
@@ -9,6 +9,7 @@ bigimg:
 
 
 La forma más rápida de contactarme es enviarme un correo electrónico. Haré todo lo posible por responder su correo en menos de 24 horas.
+{: .text-justify}
 
 
 <p class="text-center">
