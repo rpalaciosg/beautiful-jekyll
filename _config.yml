@@ -18,7 +18,7 @@ baseurl: ""
 title: Richard Palacios G.
 
 # Short description of your site
-description: Una huella virtual de mi proceso de aprendizaje.
+description: Una huella virtual de mi proceso de aprendizaje como programador.
 
 # --- Navigation bar options --- #
 
@@ -91,7 +91,7 @@ social-network-links:
   email: "apalaciosg91@gmail.com"
   github: rpalaciosg
   linkedin: richardpalaciosgarcia
-  twitter: rapg400
+  twitter: rpalaciosg_
   instagram: richardpalaciosg
 # spotify: rpalaciosg
 #  facebook: daattali
